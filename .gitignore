@@ -1,0 +1,37 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+.DS_Store
+
+# Dependency directories
+node_modules
+
+#ide folders
+.idea/
+.vscode/
+
+# Optional npm cache directory
+.npm
+
+# Test js files
+test/dist/
+.tmp-compodoc-test/
+documentation
+doc
+
+# Coverage directory used by tools like istanbul
+coverage-refactoring
+coverage
+.nyc_output
+coverage.*
+
+.dockerignore
+
+# Build-output
+dist/
+
+# Miscellaneous
+tmp/
+.tmp/
+.tmp*
